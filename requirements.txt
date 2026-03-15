@@ -1,0 +1,16 @@
+# AI-Based Crop Recommendation System
+# Requirements for running the crop recommendation ML models
+
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Machine Learning dependencies
+scikit-learn>=1.0.0
+
+# Optional: For better visualization (if needed later)
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Note: This script uses only standard scikit-learn algorithms
+# No external dataset download needed - it generates sample data automatically
